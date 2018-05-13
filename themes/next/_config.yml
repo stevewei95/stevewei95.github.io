@@ -100,7 +100,7 @@ footer:
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in main hexo config.
 # subtitle: Subtitle
@@ -474,7 +474,7 @@ baidu_analytics: 06dffe9825a606662ce83bbe26000c93
 # Disqus
 disqus:
   enable: false
-  shortname:
+  shortname: blog-ukd9mpmlwq
   count: true
   lazyload: false
 
@@ -483,9 +483,9 @@ disqus:
 
 # changyan
 changyan:
-  enable: false
-  appid:
-  appkey:
+  enable: true
+  appid: cytBSYICx
+  appkey: 18e21add8f8d677b4b27af90e5ff634b
 
 
 # Valine.
@@ -796,7 +796,7 @@ motion:
 # Please, choose only any one variant, do not need to install both.
 # For install 2.x: https://github.com/theme-next/theme-next-fancybox
 # For install 3.x: https://github.com/theme-next/theme-next-fancybox3
-fancybox: false
+fancybox: true
 
 # Added switch option for separated repo in 6.0.0.
 # Dependencies: https://github.com/theme-next/theme-next-fastclick

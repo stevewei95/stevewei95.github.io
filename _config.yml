@@ -4,9 +4,9 @@
 
 # Site
 title: Steve's Blog
-subtitle: Hello World
+subtitle: Full-Stack@JD
 description: 苟日新，日日新，又日新
-keywords:
+keywords: java, github, 技术博客, 架构, 全栈, 前端, 后端, google
 author: Steve Wei
 language: zh-CN
 timezone:
@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://stevewei.org
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:title/
 permalink_defaults:
 
 # Directory
