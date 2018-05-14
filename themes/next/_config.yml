@@ -166,8 +166,8 @@ social:
   #Instagram: https://instagram.com/yourname || instagram
   #Skype: skype:yourname?call|chat || skype
   Telegram: https://t.me/stevewei || telegram
-  豆瓣: https://www.douban.com/people/stevewei || comments
-  简书: https://www.jianshu.com/u/43b3c96ee5f7 || book
+  Douban: https://www.douban.com/people/stevewei || comments
+  Jianshu: https://www.jianshu.com/u/43b3c96ee5f7 || book
 
 social_icons:
   enable: true
@@ -315,7 +315,7 @@ related_posts:
 
 # Declare license on posts
 post_copyright:
-  enable: false
+  enable: true
   license: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow" target="_blank">CC BY-NC-SA 4.0</a>
 
 # Post edit
