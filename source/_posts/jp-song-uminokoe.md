@@ -20,7 +20,7 @@ tags:
 
 -----
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=3&id=1369380552&auto=1&height=66"></iframe>
+{% aplayer "海の声" "Steve" "http://p94tni32x.bkt.clouddn.com/uminokoe.m4a" "/images/avatar.png" %}
 
 <center><h3>♪歌词及翻译♪</h3></center>
 
