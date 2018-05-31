@@ -8,7 +8,7 @@ tags:
   - 日语歌
   - 翻唱
 ---
-<center><h3>♪歌曲简介♪</h3></center>
+## ♪歌曲简介
 
 -----
 
@@ -16,13 +16,13 @@ tags:
 
 ![](/images/japanese/song/uminokoe.jpg)
 
-<center><h3>♪我的翻唱♪</h3></center>
+## ♪我的翻唱
 
 -----
 
 {% aplayer "海の声" "Steve" "http://p94tni32x.bkt.clouddn.com/uminokoe.m4a" "/images/avatar.png" %}
 
-<center><h3>♪歌词及翻译♪</h3></center>
+## ♪歌词及翻译
 
 -----
 
