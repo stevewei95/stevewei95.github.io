@@ -20,7 +20,7 @@ tags:
 
 -----
 
-{% aplayer "海の声" "Steve" "https://bedroom-1258092164.cos.ap-shanghai.myqcloud.com/blog/uminokoe.m4a?q-sign-algorithm=sha1&q-ak=AKIDtAvqiwOSKvAgOp2Uh828r1d0O8XLu2Ox&q-sign-time=1543838227;1543840027&q-key-time=1543838227;1543840027&q-header-list=&q-url-param-list=&q-signature=18818e6988673bc1b457b2751ce05b584d5ec78f&x-cos-security-token=63b4fbe73df91fdf2372476c8be1e98cce0142c110001" "/images/avatar.png" %}
+{% aplayer "海の声" "Steve" "https://bedroom-1258092164.cos.ap-shanghai.myqcloud.com/blog/uminokoe.m4a" "/images/avatar.png" %}
 
 ## ♪歌词及翻译
 
