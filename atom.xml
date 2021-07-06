@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Steve&#39;s Blog</title>
+  <icon>http://stevewei.org/icon.png</icon>
+  <subtitle>Software Architect</subtitle>
+  <link href="http://stevewei.org/atom.xml" rel="self"/>
+  
+  <link href="http://stevewei.org/"/>
+  <updated>2021-07-06T06:51:55.361Z</updated>
+  <id>http://stevewei.org/</id>
+  
+  <author>
+    <name>Steve Wei</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为什么我们要坚持终身学习</title>
+    <link href="http://stevewei.org/2021/07/06/stores/why-learning/"/>
+    <id>http://stevewei.org/2021/07/06/stores/why-learning/</id>
+    <published>2021-07-06T06:20:12.000Z</published>
+    <updated>2021-07-06T06:51:55.361Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;我们常常听到“终身学习”这个词，但是坚持学习真的有那么重要吗？下面两个未来趋势关键词，重新解读了坚持终身学习的重要性。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一个关键词是知识的半衰期。&lt;/strong&gt; 我们拥有的知识每天都在变得越来越过时。&lt;/p&gt;
+&lt;p&gt;首先，新技术在发展，新的知识在不断产生，知识传播的方式也在日新月异。如果你得了癌症，你肯定不会去找一位30年前毕业的医生，毕竟这位医生当年学习的东西里可能有一半是错误的；再比如说在20世纪80年代，培根、黄油和鸡蛋被认为是对心脏不好的三种食物。现在，许多人认为它们是健康的。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="杂货铺" scheme="http://stevewei.org/categories/%E6%9D%82%E8%B4%A7%E9%93%BA/"/>
+    
+    
+    <category term="终身学习" scheme="http://stevewei.org/tags/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="知识的半衰期" scheme="http://stevewei.org/tags/%E7%9F%A5%E8%AF%86%E7%9A%84%E5%8D%8A%E8%A1%B0%E6%9C%9F/"/>
+    
+    <category term="学习增加法则" scheme="http://stevewei.org/tags/%E5%AD%A6%E4%B9%A0%E5%A2%9E%E5%8A%A0%E6%B3%95%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深度工作</title>
+    <link href="http://stevewei.org/2021/07/06/notes/deep-work/"/>
+    <id>http://stevewei.org/2021/07/06/notes/deep-work/</id>
+    <published>2021-07-06T06:09:30.000Z</published>
+    <updated>2021-07-06T06:51:40.915Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;如何有效使用每一点脑力，创造真实价值，成为一个不可替代的人。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://bedroom-1258092164.cos.ap-shanghai.myqcloud.com/blog/books/deep_work.jpg&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="读书" scheme="http://stevewei.org/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+    <category term="深度工作" scheme="http://stevewei.org/tags/%E6%B7%B1%E5%BA%A6%E5%B7%A5%E4%BD%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hey-folks</title>
+    <link href="http://stevewei.org/2021/07/06/diary/hey-folks/"/>
+    <id>http://stevewei.org/2021/07/06/diary/hey-folks/</id>
+    <published>2021-07-06T03:26:14.000Z</published>
+    <updated>2021-07-06T06:52:00.984Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;strong&gt;Hi, I’m Steve.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This is my very first post. I will write more here. Interested in me? Please keep your eyes here.&lt;/p&gt;
+&lt;p&gt;Thanks!&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="日记" scheme="http://stevewei.org/categories/%E6%97%A5%E8%AE%B0/"/>
+    
+    
+    <category term="Introduce" scheme="http://stevewei.org/tags/Introduce/"/>
+    
+  </entry>
+  
+</feed>
