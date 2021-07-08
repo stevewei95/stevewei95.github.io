@@ -579,14 +579,14 @@ comments:
 # Disqus
 # For more information: https://disqus.com
 disqus:
-  enable: true
+  enable: false
   shortname: blog-ukd9mpmlwq
   count: true
 
 # DisqusJS
 # For more information: https://disqusjs.skk.moe
 disqusjs:
-  enable: true
+  enable: false
   # API Endpoint of Disqus API (https://disqus.com/api/docs/).
   # Leave api empty if you are able to connect to Disqus API. Otherwise you need a reverse proxy for it.
   # For example:
@@ -598,7 +598,7 @@ disqusjs:
 # Changyan
 # For more information: https://changyan.kuaizhan.com
 changyan:
-  enable: false
+  enable: true
   appid: cytBSYICx
   appkey: 18e21add8f8d677b4b27af90e5ff634b
 
@@ -684,10 +684,10 @@ cloudflare_analytics:
 # You can visit https://www.leancloud.cn to get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: KfezQoQB1lcgGfOauP8jf1Yu-gzGzoHsz
-  app_key: ytDbCLPFa2E5XN3FX1h3GrOF
+  app_id: 5bc8Nag7hrSGWyHPVcGz4vM9-gzGzoHsz
+  app_key: I0OsMIahfzlNs6Xab1OgqAWJ
   # Required for apps from CN region
-  server_url: https://kfezqoqb.lc-cn-n1-shared.com
+  server_url: https://5bc8nag7.lc-cn-n1-shared.com
   # Dependencies: https://github.com/theme-next/hexo-leancloud-counter-security
   # If you don't care about security in leancloud counter and just want to use it directly
   # (without hexo-leancloud-counter-security plugin), set `security` to `false`.
