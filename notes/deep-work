@@ -23,7 +23,7 @@
 <meta name="description" content="如何有效使用每一点脑力，创造真实价值，成为一个不可替代的人。">
 <meta property="og:type" content="article">
 <meta property="og:title" content="深度工作">
-<meta property="og:url" content="http://stevewei.org/2021/07/06/notes/deep-work/index.html">
+<meta property="og:url" content="http://stevewei.org/notes/deep-work">
 <meta property="og:site_name" content="Steve&#39;s Blog">
 <meta property="og:description" content="如何有效使用每一点脑力，创造真实价值，成为一个不可替代的人。">
 <meta property="og:locale" content="zh_CN">
@@ -36,11 +36,11 @@
 <meta name="twitter:image" content="https://bedroom-1258092164.cos.ap-shanghai.myqcloud.com/blog/books/deep_work.jpg">
 
 
-<link rel="canonical" href="http://stevewei.org/2021/07/06/notes/deep-work/">
+<link rel="canonical" href="http://stevewei.org/notes/deep-work">
 
 
 
-<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://stevewei.org/2021/07/06/notes/deep-work/","path":"2021/07/06/notes/deep-work/","title":"深度工作"}</script>
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"http://stevewei.org/notes/deep-work","path":"notes/deep-work","title":"深度工作"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
 <title>深度工作 | Steve's Blog</title>
@@ -204,7 +204,7 @@
   
 
   <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="http://stevewei.org/2021/07/06/notes/deep-work/">
+    <link itemprop="mainEntityOfPage" href="http://stevewei.org/notes/deep-work">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="image" content="/images/avatar.png">
@@ -242,7 +242,7 @@
     </span>
 
   
-    <span id="/2021/07/06/notes/deep-work/" class="post-meta-item leancloud_visitors" data-flag-title="深度工作" title="阅读次数">
+    <span id="/notes/deep-work" class="post-meta-item leancloud_visitors" data-flag-title="深度工作" title="阅读次数">
       <span class="post-meta-item-icon">
         <i class="far fa-eye"></i>
       </span>
@@ -257,8 +257,8 @@
       </span>
       <span class="post-meta-item-text">Disqus：</span>
     
-    <a title="disqus" href="/2021/07/06/notes/deep-work/#disqus_thread" itemprop="discussionUrl">
-      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="2021/07/06/notes/deep-work/" itemprop="commentCount"></span>
+    <a title="disqus" href="/notes/deep-work#disqus_thread" itemprop="discussionUrl">
+      <span class="post-comments-count disqus-comment-count" data-disqus-identifier="notes/deep-work" itemprop="commentCount"></span>
     </a>
   </span>
   
@@ -314,12 +314,12 @@
 
           <div class="post-nav">
             <div class="post-nav-item">
-                <a href="/2021/07/06/diary/hey-folks/" rel="prev" title="hey-folks">
+                <a href="/diary/hey-folks" rel="prev" title="hey-folks">
                   <i class="fa fa-chevron-left"></i> hey-folks
                 </a>
             </div>
             <div class="post-nav-item">
-                <a href="/2021/07/06/stores/why-learning/" rel="next" title="为什么我们要坚持终身学习">
+                <a href="/stores/why-learning" rel="next" title="为什么我们要坚持终身学习">
                   为什么我们要坚持终身学习 <i class="fa fa-chevron-right"></i>
                 </a>
             </div>
@@ -369,7 +369,7 @@
   
 
 
-  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"KfezQoQB1lcgGfOauP8jf1Yu-gzGzoHsz","app_key":"ytDbCLPFa2E5XN3FX1h3GrOF","server_url":"https://kfezqoqb.lc-cn-n1-shared.com","security":false}</script>
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"KfezQoQB1lcgGfOauP8jf1Yu-gzGzoHsz","app_key":"ytDbCLPFa2E5XN3FX1h3GrOF","server_url":null,"security":false}</script>
   <script src="/js/third-party/statistics/lean-analytics.js"></script>
 
 
