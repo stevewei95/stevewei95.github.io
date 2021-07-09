@@ -599,8 +599,8 @@ disqusjs:
 # For more information: https://changyan.kuaizhan.com
 changyan:
   enable: true
-  appid: cyvxX2Kj9
-  appkey: 7801a69e51bff4bce1f88ab3819de34b
+  appid: cyvxX5b1J
+  appkey: 292f4fb71627c96fefe5b3b4faab7860
 
 # LiveRe comments system
 # You can get your uid from https://livere.com/insight/myCode (General web site)
